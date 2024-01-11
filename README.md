@@ -6,6 +6,7 @@ Welcome to Plato's Pizza BI Consultation Report! This report provides valuable i
 
 ### Analysis Highlights
 
+![Maven Pizza Challenge Dashboard](https://github.com/Okeyode22/Platos-Pizza-BI-Consultation-Report/assets/60988358/54f57bc2-b16d-4f92-bf0f-7add00f7cfe7)
 
 #### Order and Revenue Trends
 
